@@ -1,0 +1,7 @@
+.list-item {
+  padding: 15px;
+}
+
+  .list-item:nth-child(odd) {
+    background: #f3f3f3;
+  }
